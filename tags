@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Resume</title>
+</head>
+<body>
+
+  <h1>John Doe</h1>
+  <p>Email: johndoe@example.com | Phone: (123) 456-7890</p>
+  <p>LinkedIn: linkedin.com/in/johndoe</p>
+
+  <hr>
+
+  <h2>Objective</h2>
+  <p>To obtain a position as a web developer where I can utilize my skills and grow professionally.</p>
+
+  <h2>Education</h2>
+  <ul>
+    <li><strong>ABC University</strong>, B.S. in Computer Science (2017 - 2021)</li>
+    <li><strong>XYZ High School</strong>, High School Diploma (2013 - 2017)</li>
+  </ul>
+
+  <h2>Experience</h2>
+  <ul>
+    <li>
+      <strong>Front-End Developer</strong>, TechCorp (2022 - Present)
+      <ul>
+        <li>Developed responsive UI using HTML, CSS, and JavaScript</li>
+        <li>Collaborated with designers and backend developers</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Web Development Intern</strong>, WebStart (Summer 2021)
+      <ul>
+        <li>Assisted in building client websites</li>
+        <li>Performed testing and debugging</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Git & GitHub</li>
+    <li>Responsive Design</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Portfolio Website:</strong> Personal website to showcase projects and blog posts.</li>
+    <li><strong>Todo App:</strong> A simple task manager built using vanilla JavaScript.</li>
+  </ul>
+
+  <h2>References</h2>
+  <p>Available upon request</p>
+
+</body>
+</html>
