@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"> <!-- character encoding -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio of a web developer showcasing skills, projects, and contact details.">
+  <meta name="author" content="Your Name">
+  <title>Lekhraj | Portfolio</title> <!-- title displayed on browser tab -->
+  <link rel="stylesheet" href="style.css"> <!-- link to your css file -->
+</head>
+<body>
+
+  <header>
+    <h1>Hello I'm Lekhraj</h1>
+    <p>Welcome to my portfolio! I'm passionate about web developement and problem solving.</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a full-stack web developer at a small tech startup, known for her versatility and creativity. Starting her programming journey in high school, Maria built a solid foundation in HTML, CSS, JavaScript, and Python. She completed Codecademy’s Full-Stack Engineer career path, which equipped her with the skills to handle both front-end and back-end development. Maria is currently focused on enhancing her expertise in DevOps and cloud computing to improve the scalability of the applications she builds.</p>
+  </section>
+
+  <header>
+    <h1>Leetcode Record</h1>
+    <p>Problems Solved: 50</p>
+    <p>Topics: Arrays,Strings,Dynamic Programming,Trees</p>
+    <p>View My Profile:<a href="#">Leetcode Profile</a></p>
+  </header>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="#">Project 1</a></li>
+      <li><a href="#">Project 2</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Your Name</p>
+  </footer>
+
+</body>
+</html>
